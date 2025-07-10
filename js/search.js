@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://https://cors-proxy.dran3000.workers.dev/?u=";
+const ProxyApi = "https://cors-proxy.dran3000.workers.dev/?u=";
 const searchapi = "/search/";
 
 // Api Server Manager
